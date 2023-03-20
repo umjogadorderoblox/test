@@ -9,7 +9,6 @@ function somar(a, b)
 end
 
 print("\nO resulta da soma e:", somar(a, b))
-print("\nO resulta da soma e:", somar(a, b))
 
 print("informe sua idade:")
 idade = io.read()
